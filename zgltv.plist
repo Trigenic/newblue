@@ -32,7 +32,7 @@
            </array><key>metadata</key>
            <dict>
                  <key>bundle-identifier</key>
-               <string>wangdx.enterprise.kanz</string>
+               <string>com.letv.cloud.cztv.zgltv</string>
                <key>bundle-version</key>
                <string>1.2</string>
                <key>kind</key>
