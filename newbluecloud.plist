@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://faerie.sinaapp.com/newbluecloud0630.ipa</string>
+                   <string>http://faerie.sinaapp.com/ipas/newbluecloud_v1.0.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -38,9 +38,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>新蓝互动</string>
+               <string>中国蓝互动</string>
                <key>title</key>
-               <string>新蓝互动</string>
+               <string>中国蓝互动</string>
            </dict>
        </dict>
        
