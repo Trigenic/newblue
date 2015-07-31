@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://faerie.sinaapp.com/ChinaBlueTV_v_1.2_build_44_realEnv.ipa</string>
+                   <string>http://faerie.sinaapp.com/ipas/ZJTV_v_1.2.2_build_48_development.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -34,7 +34,7 @@
                  <key>bundle-identifier</key>
                <string>com.letv.cloud.cztv.zgltv</string>
                <key>bundle-version</key>
-               <string>1.2</string>
+               <string>1.2.2</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
