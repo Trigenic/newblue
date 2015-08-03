@@ -34,7 +34,7 @@
                  <key>bundle-identifier</key>
                <string>com.letv.cloud.cztv.zgltv</string>
                <key>bundle-version</key>
-               <string>1.2.2</string>
+               <string>1.2.1</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
