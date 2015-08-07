@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://faerie.sinaapp.com/ipas/cztvVideoiPhone.ipa</string>
+                   <string>http://faerie.sinaapp.com/ipas/cztvVideoiPhone_v1.2.4_build_52_enterprise.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -32,9 +32,9 @@
            </array><key>metadata</key>
            <dict>
                  <key>bundle-identifier</key>
-               <string>com.letv.cloud.cztv.zgltv</string>
+               <string>zgltv.enterprise</string>
                <key>bundle-version</key>
-               <string>1.2.1</string>
+               <string>1.2.4</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
