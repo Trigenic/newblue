@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.mymi.ren/zgltv_V1251.ipa</string>
+                   <string>http://faerie.sinaapp.com/ipas/cztvVideoiPhone_v1.2.5_20150901_enterprise.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -34,7 +34,7 @@
                  <key>bundle-identifier</key>
                <string>zgltv.enterprise</string>
                <key>bundle-version</key>
-               <string>1.2.5.0</string>
+               <string>1.2.5</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
