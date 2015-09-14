@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.mymi.ren/zglxw_v365_enterprise.ipa</string>
+                   <string>http://www.mymi.ren/zglxw_v366_enterprise.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -34,13 +34,13 @@
                  <key>bundle-identifier</key>
                <string>zglxw.enterprise</string>
                <key>bundle-version</key>
-               <string>3.6.5</string>
+               <string>3.6.6</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>中国蓝新闻365</string>
+               <string>中国蓝新闻366</string>
                <key>title</key>
-               <string>中国蓝新闻365</string>
+               <string>中国蓝新闻366</string>
            </dict>
        </dict>
        
