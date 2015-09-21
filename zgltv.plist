@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.mymi.ren/cztvVideoiPhone_1257_57.ipa</string>
+                   <string>http://www.mymi.ren/ZGLTV_V1.2.6.1_build_57_0930.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -34,13 +34,13 @@
                  <key>bundle-identifier</key>
                <string>zgltv.enterprise</string>
                <key>bundle-version</key>
-               <string>1.2.5.7</string>
+               <string>1.2.6.1</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>蓝TV1257</string>
+               <string>蓝TV内测版</string>
                <key>title</key>
-               <string>蓝TV1257</string>
+               <string>蓝TV内测版7</string>
            </dict>
        </dict>
        
