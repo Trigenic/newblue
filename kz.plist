@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://img01.cztv.com/channel/cztv/1/aav_logo_019da8305e3c5920cfc76d7d59fdb692.png</string>
+                   <string>http://tv.cztv.com/cztv/user/bg-logo.png</string>
                </dict>
            <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://img01.cztv.com/channel/cztv/1/aav_logo_019da8305e3c5920cfc76d7d59fdb692.png</string>
+                   <string>http://tv.cztv.com/cztv/user/bg-logo.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                  <key>bundle-identifier</key>
-               <string>wangdx.enterprise.kanz</string>
+               <string>zgltv.enterprise</string>
                <key>bundle-version</key>
-               <string>1.0</string>
+               <string>1.2.9</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>kanzhe</string>
+               <string>中国蓝TV摇</string>
                <key>title</key>
-               <string>kanzhe</string>
+               <string>中国蓝TV摇</string>
            </dict>
        </dict>
        
