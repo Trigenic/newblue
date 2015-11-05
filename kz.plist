@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.mymi.ren/cztvVideoiPhone.ipa</string>
+                   <string>http://faerie.sinaapp.com/kanz07082.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://tv.cztv.com/cztv/user/bg-logo.png</string>
+                   <string>http://img01.cztv.com/channel/cztv/1/aav_logo_019da8305e3c5920cfc76d7d59fdb692.png</string>
                </dict>
            <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://tv.cztv.com/cztv/user/bg-logo.png</string>
+                   <string>http://img01.cztv.com/channel/cztv/1/aav_logo_019da8305e3c5920cfc76d7d59fdb692.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                  <key>bundle-identifier</key>
-               <string>zgltv.enterprise</string>
+               <string>wangdx.enterprise.kanz</string>
                <key>bundle-version</key>
-               <string>1.2.9</string>
+               <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>中国蓝TV摇</string>
+               <string>看浙</string>
                <key>title</key>
-               <string>中国蓝TV摇</string>
+               <string>看浙</string>
            </dict>
        </dict>
        
