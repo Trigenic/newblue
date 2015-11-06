@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.mymi.ren/zglxw_v367_1102.ipa</string>
+                   <string>http://www.mymi.ren/zglxw_3.6_1106_rebuild.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://c11.eoemarket.com/app0/356/356534/icon/665965.png</string>
+                   <string>http://www.mymi.ren/zglxw_icon_60.png</string>
                </dict>
            <dict>
                    <key>kind</key>
@@ -27,14 +27,14 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://c11.eoemarket.com/app0/356/356534/icon/665965.png</string>
+                   <string>http://www.mymi.ren/zglxw_icon_60.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                  <key>bundle-identifier</key>
                <string>zglxw.enterprise</string>
                <key>bundle-version</key>
-               <string>3.6.6</string>
+               <string>3.6</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
