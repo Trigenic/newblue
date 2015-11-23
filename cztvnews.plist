@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.mymi.ren/zglxw_3.6_1106_rebuild.ipa</string>
+                   <string>http://www.mymi.ren/zglxw_1123_142016.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -38,9 +38,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>中国蓝新闻Beta</string>
+               <string>蓝新闻Beta</string>
                <key>title</key>
-               <string>中国蓝新闻Beta</string>
+               <string>蓝新闻Beta</string>
            </dict>
        </dict>
        
